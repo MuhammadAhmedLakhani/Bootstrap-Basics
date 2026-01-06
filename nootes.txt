@@ -1,7 +1,11 @@
 ---boootatrap-container
 
 *container-fluid provides the full width of the viewport    
+
 *container class is use for responsive layout and there is pading automatically
+
+---text-classes
+
 *text-center align the text to center just like text-align:center
 *text-uppercase class is equivalent to  css property   -->  text-transformed:uppercase 
 *fs-1 class is equal to css property font-size:2.5 rem
@@ -10,3 +14,14 @@
 *fs-4 class is equal to css property font-size:1.5 rem
 *fs-5 class is equal to css property font-size:1.25 rem
 *fs-6 class is equal to css property font-size:1 rem
+
+---font-weight
+
+fw-light       = font-weight: 300
+fw-lighter     = font-weight: lighter   (parent se halka)
+fw-normal      = font-weight: 400
+fw-medium      = font-weight: 500
+fw-semibold    = font-weight: 600
+fw-bold        = font-weight: 700
+fw-bolder     = font-weight: bolder    (parent se zyada)
+
