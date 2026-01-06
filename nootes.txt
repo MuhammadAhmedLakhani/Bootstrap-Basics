@@ -2,3 +2,4 @@
 
 *container-fluid provides the full width of the viewport    
 *container class is use for responsive layout and there is pading automatically
+*text-center align the text to center just like text-align:center
