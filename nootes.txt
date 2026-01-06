@@ -1,0 +1,4 @@
+---boootatrap-container
+
+*container-fluid provides the full width of the viewport    
+*container class is use for responsive layout and there is pading automatically
