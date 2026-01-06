@@ -4,3 +4,9 @@
 *container class is use for responsive layout and there is pading automatically
 *text-center align the text to center just like text-align:center
 *text-uppercase class is equivalent to  css property   -->  text-transformed:uppercase 
+*fs-1 class is equal to css property font-size:2.5 rem
+*fs-2 class is equal to css property font-size:2 rem
+*fs-3 class is equal to css property font-size:1.75 rem
+*fs-4 class is equal to css property font-size:1.5 rem
+*fs-5 class is equal to css property font-size:1.25 rem
+*fs-6 class is equal to css property font-size:1 rem
