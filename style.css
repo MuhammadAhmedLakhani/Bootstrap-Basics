@@ -9,5 +9,6 @@
 }
 
 .my-flex-container {
+    height: 70vh;
     background-color: antiquewhite;
 }
