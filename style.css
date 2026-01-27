@@ -2,3 +2,12 @@
     height: 100vh;
     background-color: #eee;
 }
+
+.items {
+    padding: 20px;    
+    text-align: center;
+}
+
+.my-flex-container {
+    background-color: antiquewhite;
+}
